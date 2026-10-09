@@ -1,0 +1,15 @@
+node_model_local*/
+central_model_bak*/
+logs/
+notebook/
+.env
+.vs/
+*.pyc
+*.o
+*.out
+*.class
+*.exe
+build/
+dist/
+__pycache__/
+.ipynb_checkpoints/
